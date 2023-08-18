@@ -1,2 +1,2 @@
 # Power-BI-Dashboards
-Conjunto de Dashboards creados en PowerBI.
+Conjunto de Dashboards autoexplicativos creados en PowerBI.
